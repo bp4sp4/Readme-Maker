@@ -306,12 +306,12 @@ export default function Home() {
               Portfolio README Generator
             </p>
             <p style={{ fontSize: 12, color: "#AEB5BC", margin: 0 }}>
-              채용 담당자가 주목하는 포트폴리오 README.md를 빠르게 만들어보세요.
+             포트폴리오 README.md를 빠르게 만들어보세요.
             </p>
           </div>
           <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
             <span style={{ fontSize: 12, color: "#D1D5DB" }}>
-              Built with Next.js &middot; React &middot; TypeScript
+              coded by : PSH
             </span>
           </div>
         </div>
